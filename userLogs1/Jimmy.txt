@@ -1,0 +1,1 @@
+Round:2 ; winningRounds:2 ; totalScore:56 ; queryID:411 ; correctDOC:LA041789-0048 ; SubmittedDOC:LA050490-0070 ; wordsSharedNow:fish found massachusett  ; lastQuery:salvaging, shipwreck, treasure; isRelevant:false ; isCorrect:false ; roundFinished:false  ; score:28

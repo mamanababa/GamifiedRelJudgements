@@ -1,0 +1,6 @@
+
+
+Round:1 ; WinningRounds:1 ; TotalScore:24 ; RoundSocre:24 ; CorrectDOC:FBIS4-10025 ; SubmittedDOCs:FBIS4-10025,FT942-4289,FBIS3-33313,FT941-12873, ; IsRelevant:false,true,false,true, ;Query:King Hussein, peace cuba agreements food havana signing trade
+
+
+Round:2 ; WinningRounds:1 ; TotalScore:24 ; RoundSocre:0 ; CorrectDOC:LA061589-0055 ; SubmittedDOCs:LA081690-0246,LA081689-0146,LA031389-0095,LA073089-0143,LA041889-0111,LA080389-0111,LA062390-0104,LA052490-0239,LA031589-0133,FT911-3300,LA051089-0024,LA030989-0090, ; IsRelevant:false,false,false,true,false,true,false,false,false,false,false,false, ; Query:killer bee attacks

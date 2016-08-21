@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/retriever/TextAnnotator.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>74</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/retriever/TextAnnotator.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/web/search.jsp</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/web/index.jsp</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/web/profile.jsp</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/game/AllRelRcds.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/servlets/DocumentViewer.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/servlets/LeadBo.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/servlets/GameManagerServlet.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/retriever/TrecDocRetriever.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/game/GameState.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/web/META-INF/context.xml</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/servlets/SearchServlet.java</file>
+            <file>file:/Users/lizeyuan/Google/prac/IR/GamifiedRelJudgements/src/java/game/LeaderBoard.java</file>
+        </group>
+    </open-files>
+</project-private>
