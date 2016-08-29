@@ -4,3 +4,5 @@ Round:1 ; WinningRounds:1 ; TotalScore:24 ; RoundSocre:24 ; CorrectDOC:FBIS4-100
 
 
 Round:2 ; WinningRounds:1 ; TotalScore:24 ; RoundSocre:0 ; CorrectDOC:LA061589-0055 ; SubmittedDOCs:LA081690-0246,LA081689-0146,LA031389-0095,LA073089-0143,LA041889-0111,LA080389-0111,LA062390-0104,LA052490-0239,LA031589-0133,FT911-3300,LA051089-0024,LA030989-0090, ; IsRelevant:false,false,false,true,false,true,false,false,false,false,false,false, ; Query:killer bee attacks
+
+Round:3;WinningRounds:2;TotalScore:56;RoundSocre:32;CorrectDOC:FBIS4-45370;SubmittedDOCs:FBIS3-2893,FBIS3-60025,FBIS3-21943,FBIS3-21753,FBIS4-45454,FBIS4-45370,;IsRelevant:true,true,true,false,false,true,;QueriesExecuted:drugs, Golden Triangle&drugs, Golden Triangle arrested kg heroin&drugs, Golden Triangle arrested kg heroin police 94049 june&drugs, Golden Triangle arrested kg heroin police 94049 june english narcotics 10&drugs, Golden Triangle arrested kg heroin police 94049 june english narcotics 10 chemical servic&

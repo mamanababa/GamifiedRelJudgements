@@ -182,9 +182,12 @@
                 var w = 0.5 * $(window).width();
                 var h = 0.5 * $(window).height();
                 $("#helpDlg").html("1. Each new game start with 10 socres and shared terms. <br> " +
-                        "2. Use terms as a hint to search documents.<br> " +
-                        "3. Take a guess which document is the correct one then submit" +
-                        "4. If the guessed document ");
+                        "2. Use terms as keywords to search documents.<br> " +
+                        "3. Take a guess which document is the correct one then submit<br>" +
+                        "4. If the guessed document is correct you gains 10 points and win this round<br>"+ 
+                        "5. If the guessed document is incorrect but relevant to the correct ducument, you gains 2 points and more shared terms<br> " + 
+                        "6. If the guessed document is incorrect but irrelevant to the correct ducument, you lose 2 points and more shared terms <br>" +
+                        "7. Lose the game when your score reach 0");
                 $("#helpDlg").dialog({
                     resizable: false,
                     width: w,
@@ -306,14 +309,16 @@
                 <!--<input type="hidden" id="gameVersion2" name="gameVersion2" value="2"/>-->
                 <br>
                 <button id="newgameBttn2">New Game(P2)</button> 
+                <br>
                 <!--</form>-->
+                <button id="leadingBttn">Leaderboard</button> 
                 <form name="myForm3" id="myForm3" action="profile.jsp" target="mainFrame"> 
                     <input type="hidden" id="username" name="username"/>
                     <button id="profileBttn">Profile</button> 
                 </form>
-
-                <button id="leadingBttn">Leading Board</button> 
-                <button id="tasksBttn">Tasks</button> 
+                
+                <!--<button id="tasksBttn">Tasks</button>--> 
+                
                 <button id="helpBttn">Help</button> 
                 <br><br>
                 <!-- login  -->

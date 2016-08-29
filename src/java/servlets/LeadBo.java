@@ -65,7 +65,7 @@ public class LeadBo extends HttpServlet {
                         + "<table class=\"sortable\">"
                         + "<tr>"
                         + "<th class=\"sorttable_nosort\">NAME</th>"
-                        + "<th>SOCRE</th>"
+                        + "<th>SCORE</th>"
                         + "<th>WINNING ROUNDS</th>"
                         + "</tr>");
                 int i = 0;

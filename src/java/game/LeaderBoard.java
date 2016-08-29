@@ -84,7 +84,7 @@ public class LeaderBoard {
         File folder;
         double totalRounds = 0;
         double winningRounds = 0;
-        int totalSocreAfterthisRound = 0;
+        int totalScoreAfterthisRound = 0;
 //        ArrayList<Integer> roundSocre = new ArrayList<Integer>();
         double winningRate = 0;
 
@@ -108,14 +108,14 @@ public class LeaderBoard {
                     String[] b = allRounds.get(allRounds.size() - 1).split(";");
                     totalRounds = Double.valueOf(b[0].split(":")[1].trim());
                     winningRounds = Double.valueOf(b[1].split(":")[1].trim());
-                    totalSocreAfterthisRound = Integer.valueOf(b[2].split(":")[1].trim());
+                    totalScoreAfterthisRound = Integer.valueOf(b[2].split(":")[1].trim());
                     winningRate = winningRounds / totalRounds * 100;
 //                    System.out.print("WINNING RATE = " + winningRounds + "/" + totalRounds + "=" + winningRate);
 
                     //table 1
                     buff.append("<table border=\"1\">"
-                            + "<tr><th>TOTAL ROUNDs</th><th>TOTAL SOCRE</th><th>WINNING ROUNDs</th><th>WINNING RATE</th></tr>"
-                            + "<tr><td>" + (int) totalRounds + "</td><td>" + totalSocreAfterthisRound + "</td><td>" + (int) winningRounds + "</td><td>" + winningRate + "%</td></tr>"
+                            + "<tr><th>TOTAL ROUNDs</th><th>TOTAL SCORE</th><th>WINNING ROUNDs</th><th>WINNING RATE</th></tr>"
+                            + "<tr><td>" + (int) totalRounds + "</td><td>" + totalScoreAfterthisRound + "</td><td>" + (int) winningRounds + "</td><td>" + winningRate + "%</td></tr>"
                             + "</table><br><br>");
 
                     //table 2
